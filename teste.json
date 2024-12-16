@@ -1,0 +1,6626 @@
+[
+  {
+    "id": 1,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 1, "name": "Clidenor", "email": "clidenor@iftm.com" },
+    "subject": { "id": 1, "name": "Principios de comunicação", "period": 6 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 3
+  },
+  {
+    "id": 1,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 1, "name": "Clidenor", "email": "clidenor@iftm.com" },
+    "subject": { "id": 1, "name": "Principios de comunicação", "period": 6 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 3
+  },
+  {
+    "id": 1,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 1, "name": "Clidenor", "email": "clidenor@iftm.com" },
+    "subject": { "id": 1, "name": "Principios de comunicação", "period": 6 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 3
+  },
+  {
+    "id": 1,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 1, "name": "Clidenor", "email": "clidenor@iftm.com" },
+    "subject": { "id": 1, "name": "Principios de comunicação", "period": 6 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 5,
+    "day": 4
+  },
+  {
+    "id": 2,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 2, "name": "Mauro", "email": "mauro@iftm.com" },
+    "subject": { "id": 2, "name": "Engenharia de software", "period": 6 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 5,
+    "day": 4
+  },
+  {
+    "id": 2,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 2, "name": "Mauro", "email": "mauro@iftm.com" },
+    "subject": { "id": 2, "name": "Engenharia de software", "period": 6 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 0
+  },
+  {
+    "id": 2,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 2, "name": "Mauro", "email": "mauro@iftm.com" },
+    "subject": { "id": 2, "name": "Engenharia de software", "period": 6 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 3
+  },
+  {
+    "id": 2,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 2, "name": "Mauro", "email": "mauro@iftm.com" },
+    "subject": { "id": 2, "name": "Engenharia de software", "period": 6 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 3
+  },
+  {
+    "id": 3,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 3, "name": "Orbolato", "email": "orbolato@iftm.com" },
+    "subject": { "id": 3, "name": "Programação web II", "period": 6 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 3
+  },
+  {
+    "id": 3,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 3, "name": "Orbolato", "email": "orbolato@iftm.com" },
+    "subject": { "id": 3, "name": "Programação web II", "period": 6 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 3,
+    "day": 0
+  },
+  {
+    "id": 3,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 3, "name": "Orbolato", "email": "orbolato@iftm.com" },
+    "subject": { "id": 3, "name": "Programação web II", "period": 6 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 1
+  },
+  {
+    "id": 3,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 3, "name": "Orbolato", "email": "orbolato@iftm.com" },
+    "subject": { "id": 3, "name": "Programação web II", "period": 6 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 4
+  },
+  {
+    "id": 3,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 3, "name": "Orbolato", "email": "orbolato@iftm.com" },
+    "subject": { "id": 3, "name": "Programação web II", "period": 6 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 3,
+    "day": 0
+  },
+  {
+    "id": 4,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 4, "name": "Bruno", "email": "bruno@iftm.com" },
+    "subject": { "id": 4, "name": "Sistemas de Controle", "period": 6 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 2,
+    "day": 3
+  },
+  {
+    "id": 4,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 4, "name": "Bruno", "email": "bruno@iftm.com" },
+    "subject": { "id": 4, "name": "Sistemas de Controle", "period": 6 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 3,
+    "day": 1
+  },
+  {
+    "id": 4,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 4, "name": "Bruno", "email": "bruno@iftm.com" },
+    "subject": { "id": 4, "name": "Sistemas de Controle", "period": 6 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 2,
+    "day": 3
+  },
+  {
+    "id": 4,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 4, "name": "Bruno", "email": "bruno@iftm.com" },
+    "subject": { "id": 4, "name": "Sistemas de Controle", "period": 6 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 3
+  },
+  {
+    "id": 5,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": {
+      "id": 5,
+      "name": "Micropocessadores e microcontroladores",
+      "period": 6
+    },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 3,
+    "day": 3
+  },
+  {
+    "id": 5,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": {
+      "id": 5,
+      "name": "Micropocessadores e microcontroladores",
+      "period": 6
+    },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 3
+  },
+  {
+    "id": 5,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": {
+      "id": 5,
+      "name": "Micropocessadores e microcontroladores",
+      "period": 6
+    },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 5,
+    "day": 2
+  },
+  {
+    "id": 5,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": {
+      "id": 5,
+      "name": "Micropocessadores e microcontroladores",
+      "period": 6
+    },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 5,
+    "day": 3
+  },
+  {
+    "id": 5,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": {
+      "id": 5,
+      "name": "Micropocessadores e microcontroladores",
+      "period": 6
+    },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 1
+  },
+  {
+    "id": 5,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": {
+      "id": 5,
+      "name": "Micropocessadores e microcontroladores",
+      "period": 6
+    },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 4
+  },
+  {
+    "id": 6,
+    "quantity": 1,
+    "duration": 50,
+    "teacher": { "id": 6, "name": "Gustavo", "email": "gustavo@iftm.com" },
+    "subject": {
+      "id": 6,
+      "name": "Projetos interdisciplinares VI",
+      "period": 6
+    },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 4
+  },
+  {
+    "id": 7,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": { "id": 7, "name": "Anderson", "email": "anderson@iftm.com" },
+    "subject": { "id": 7, "name": "Mecaninca dos materiais", "period": 6 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 2,
+    "day": 0
+  },
+  {
+    "id": 7,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": { "id": 7, "name": "Anderson", "email": "anderson@iftm.com" },
+    "subject": { "id": 7, "name": "Mecaninca dos materiais", "period": 6 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "period": "6",
+      "quantity_students": 10
+    },
+    "schedule": 3,
+    "day": 3
+  },
+  {
+    "id": 8,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 8, "name": "Jorge", "email": "jorge@iftm.com" },
+    "subject": { "id": 8, "name": "Geometria analitica", "period": 1 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 2
+  },
+  {
+    "id": 8,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 8, "name": "Jorge", "email": "jorge@iftm.com" },
+    "subject": { "id": 8, "name": "Geometria analitica", "period": 1 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 5,
+    "day": 0
+  },
+  {
+    "id": 8,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 8, "name": "Jorge", "email": "jorge@iftm.com" },
+    "subject": { "id": 8, "name": "Geometria analitica", "period": 1 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 3
+  },
+  {
+    "id": 8,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 8, "name": "Jorge", "email": "jorge@iftm.com" },
+    "subject": { "id": 8, "name": "Geometria analitica", "period": 1 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 3
+  },
+  {
+    "id": 9,
+    "quantity": 7,
+    "duration": 50,
+    "teacher": { "id": 9, "name": "Ernani", "email": "ernani@iftm.com" },
+    "subject": { "id": 9, "name": "Algoritmos E Programação", "period": 1 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 4
+  },
+  {
+    "id": 9,
+    "quantity": 7,
+    "duration": 50,
+    "teacher": { "id": 9, "name": "Ernani", "email": "ernani@iftm.com" },
+    "subject": { "id": 9, "name": "Algoritmos E Programação", "period": 1 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 4
+  },
+  {
+    "id": 9,
+    "quantity": 7,
+    "duration": 50,
+    "teacher": { "id": 9, "name": "Ernani", "email": "ernani@iftm.com" },
+    "subject": { "id": 9, "name": "Algoritmos E Programação", "period": 1 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 2
+  },
+  {
+    "id": 9,
+    "quantity": 7,
+    "duration": 50,
+    "teacher": { "id": 9, "name": "Ernani", "email": "ernani@iftm.com" },
+    "subject": { "id": 9, "name": "Algoritmos E Programação", "period": 1 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 3
+  },
+  {
+    "id": 9,
+    "quantity": 7,
+    "duration": 50,
+    "teacher": { "id": 9, "name": "Ernani", "email": "ernani@iftm.com" },
+    "subject": { "id": 9, "name": "Algoritmos E Programação", "period": 1 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 2
+  },
+  {
+    "id": 9,
+    "quantity": 7,
+    "duration": 50,
+    "teacher": { "id": 9, "name": "Ernani", "email": "ernani@iftm.com" },
+    "subject": { "id": 9, "name": "Algoritmos E Programação", "period": 1 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 3
+  },
+  {
+    "id": 9,
+    "quantity": 7,
+    "duration": 50,
+    "teacher": { "id": 9, "name": "Ernani", "email": "ernani@iftm.com" },
+    "subject": { "id": 9, "name": "Algoritmos E Programação", "period": 1 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 3
+  },
+  {
+    "id": 10,
+    "quantity": 1,
+    "duration": 50,
+    "teacher": { "id": 4, "name": "Bruno", "email": "bruno@iftm.com" },
+    "subject": {
+      "id": 10,
+      "name": "Projetos Interdisciplinares I",
+      "period": 1
+    },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 3
+  },
+  {
+    "id": 11,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": {
+      "id": 10,
+      "name": "Rogerio Nepomuceno",
+      "email": "rogerio@iftm.com"
+    },
+    "subject": {
+      "id": 11,
+      "name": "Introdução a Logica Matemática",
+      "period": 1
+    },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 1
+  },
+  {
+    "id": 11,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": {
+      "id": 10,
+      "name": "Rogerio Nepomuceno",
+      "email": "rogerio@iftm.com"
+    },
+    "subject": {
+      "id": 11,
+      "name": "Introdução a Logica Matemática",
+      "period": 1
+    },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 9,
+    "day": 3
+  },
+  {
+    "id": 12,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 12, "name": "Calculo I", "period": 1 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 4
+  },
+  {
+    "id": 12,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 12, "name": "Calculo I", "period": 1 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 2
+  },
+  {
+    "id": 12,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 12, "name": "Calculo I", "period": 1 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 3,
+    "day": 0
+  },
+  {
+    "id": 12,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 12, "name": "Calculo I", "period": 1 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 4
+  },
+  {
+    "id": 12,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 12, "name": "Calculo I", "period": 1 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 0
+  },
+  {
+    "id": 13,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Luiz Pessoa", "email": "luiz@iftm.com" },
+    "subject": { "id": 13, "name": "Introdução a Engenharia ", "period": 1 },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 0
+  },
+  {
+    "id": 13,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Luiz Pessoa", "email": "luiz@iftm.com" },
+    "subject": { "id": 13, "name": "Introdução a Engenharia ", "period": 1 },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 2
+  },
+  {
+    "id": 14,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": {
+      "id": 11,
+      "name": "substituto",
+      "email": "substituto@iftm.com"
+    },
+    "subject": { "id": 14, "name": "Eletricidade Experimental", "period": 1 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 4
+  },
+  {
+    "id": 14,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": {
+      "id": 11,
+      "name": "substituto",
+      "email": "substituto@iftm.com"
+    },
+    "subject": { "id": 14, "name": "Eletricidade Experimental", "period": 1 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 2,
+      "name": "Engenharia de computação",
+      "period": "1",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 4
+  },
+  {
+    "id": 15,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 8, "name": "Jorge", "email": "jorge@iftm.com" },
+    "subject": { "id": 15, "name": "Probabilidade e Estatistica", "period": 2 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 2
+  },
+  {
+    "id": 15,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 8, "name": "Jorge", "email": "jorge@iftm.com" },
+    "subject": { "id": 15, "name": "Probabilidade e Estatistica", "period": 2 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 4
+  },
+  {
+    "id": 15,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 8, "name": "Jorge", "email": "jorge@iftm.com" },
+    "subject": { "id": 15, "name": "Probabilidade e Estatistica", "period": 2 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 4
+  },
+  {
+    "id": 15,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 8, "name": "Jorge", "email": "jorge@iftm.com" },
+    "subject": { "id": 15, "name": "Probabilidade e Estatistica", "period": 2 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 2
+  },
+  {
+    "id": 16,
+    "quantity": 1,
+    "duration": 50,
+    "teacher": {
+      "id": 13,
+      "name": "Daniel Caixeta",
+      "email": "daniel@iftm.com"
+    },
+    "subject": {
+      "id": 16,
+      "name": "Projetos Interdisciplinares II",
+      "period": 2
+    },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 3
+  },
+  {
+    "id": 17,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 7, "name": "Anderson", "email": "anderson@iftm.com" },
+    "subject": { "id": 17, "name": "Fisica I", "period": 2 },
+    "classroom": {
+      "id": 7,
+      "name": "404",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 2,
+    "day": 2
+  },
+  {
+    "id": 17,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 7, "name": "Anderson", "email": "anderson@iftm.com" },
+    "subject": { "id": 17, "name": "Fisica I", "period": 2 },
+    "classroom": {
+      "id": 7,
+      "name": "404",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 2
+  },
+  {
+    "id": 17,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 7, "name": "Anderson", "email": "anderson@iftm.com" },
+    "subject": { "id": 17, "name": "Fisica I", "period": 2 },
+    "classroom": {
+      "id": 7,
+      "name": "404",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 2,
+    "day": 2
+  },
+  {
+    "id": 17,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 7, "name": "Anderson", "email": "anderson@iftm.com" },
+    "subject": { "id": 17, "name": "Fisica I", "period": 2 },
+    "classroom": {
+      "id": 7,
+      "name": "404",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 2
+  },
+  {
+    "id": 18,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 14,
+      "name": "Andreia Crico",
+      "email": "andreia@iftm.com"
+    },
+    "subject": { "id": 18, "name": "Circuitos I", "period": 2 },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 3,
+    "day": 4
+  },
+  {
+    "id": 18,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 14,
+      "name": "Andreia Crico",
+      "email": "andreia@iftm.com"
+    },
+    "subject": { "id": 18, "name": "Circuitos I", "period": 2 },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 0
+  },
+  {
+    "id": 18,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 14,
+      "name": "Andreia Crico",
+      "email": "andreia@iftm.com"
+    },
+    "subject": { "id": 18, "name": "Circuitos I", "period": 2 },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 2,
+    "day": 2
+  },
+  {
+    "id": 18,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 14,
+      "name": "Andreia Crico",
+      "email": "andreia@iftm.com"
+    },
+    "subject": { "id": 18, "name": "Circuitos I", "period": 2 },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 0
+  },
+  {
+    "id": 19,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 15, "name": "Muriel", "email": "muriel@iftm.com" },
+    "subject": { "id": 19, "name": "Algebra Linear", "period": 2 },
+    "classroom": {
+      "id": 7,
+      "name": "404",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 4
+  },
+  {
+    "id": 19,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 15, "name": "Muriel", "email": "muriel@iftm.com" },
+    "subject": { "id": 19, "name": "Algebra Linear", "period": 2 },
+    "classroom": {
+      "id": 7,
+      "name": "404",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 2
+  },
+  {
+    "id": 19,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 15, "name": "Muriel", "email": "muriel@iftm.com" },
+    "subject": { "id": 19, "name": "Algebra Linear", "period": 2 },
+    "classroom": {
+      "id": 7,
+      "name": "404",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 2
+  },
+  {
+    "id": 19,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 15, "name": "Muriel", "email": "muriel@iftm.com" },
+    "subject": { "id": 19, "name": "Algebra Linear", "period": 2 },
+    "classroom": {
+      "id": 7,
+      "name": "404",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 2,
+    "day": 2
+  },
+  {
+    "id": 20,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 20, "name": "Calculo 2", "period": 2 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 0
+  },
+  {
+    "id": 20,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 20, "name": "Calculo 2", "period": 2 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 3
+  },
+  {
+    "id": 20,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 20, "name": "Calculo 2", "period": 2 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 9,
+    "day": 1
+  },
+  {
+    "id": 20,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 20, "name": "Calculo 2", "period": 2 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 9,
+    "day": 1
+  },
+  {
+    "id": 21,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": {
+      "id": 16,
+      "name": "Daniela Orbolato",
+      "email": "daniela@iftm.com"
+    },
+    "subject": { "id": 21, "name": "Estrutura de Dados", "period": 2 },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 0
+  },
+  {
+    "id": 21,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": {
+      "id": 16,
+      "name": "Daniela Orbolato",
+      "email": "daniela@iftm.com"
+    },
+    "subject": { "id": 21, "name": "Estrutura de Dados", "period": 2 },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 2
+  },
+  {
+    "id": 21,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": {
+      "id": 16,
+      "name": "Daniela Orbolato",
+      "email": "daniela@iftm.com"
+    },
+    "subject": { "id": 21, "name": "Estrutura de Dados", "period": 2 },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 3
+  },
+  {
+    "id": 21,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": {
+      "id": 16,
+      "name": "Daniela Orbolato",
+      "email": "daniela@iftm.com"
+    },
+    "subject": { "id": 21, "name": "Estrutura de Dados", "period": 2 },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 2
+  },
+  {
+    "id": 21,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": {
+      "id": 16,
+      "name": "Daniela Orbolato",
+      "email": "daniela@iftm.com"
+    },
+    "subject": { "id": 21, "name": "Estrutura de Dados", "period": 2 },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 3
+  },
+  {
+    "id": 22,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": { "id": 17, "name": "Marcia", "email": "marcia@iftm.com" },
+    "subject": { "id": 22, "name": "Quimica Tecnologica", "period": 2 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 0
+  },
+  {
+    "id": 22,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": { "id": 17, "name": "Marcia", "email": "marcia@iftm.com" },
+    "subject": { "id": 22, "name": "Quimica Tecnologica", "period": 2 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 3,
+      "name": "Engenharia de computação",
+      "period": "2",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 0
+  },
+  {
+    "id": 23,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 13,
+      "name": "Daniel Caixeta",
+      "email": "daniel@iftm.com"
+    },
+    "subject": { "id": 23, "name": "Circuitos II", "period": 3 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 2
+  },
+  {
+    "id": 23,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 13,
+      "name": "Daniel Caixeta",
+      "email": "daniel@iftm.com"
+    },
+    "subject": { "id": 23, "name": "Circuitos II", "period": 3 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 3
+  },
+  {
+    "id": 23,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 13,
+      "name": "Daniel Caixeta",
+      "email": "daniel@iftm.com"
+    },
+    "subject": { "id": 23, "name": "Circuitos II", "period": 3 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 0
+  },
+  {
+    "id": 23,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 13,
+      "name": "Daniel Caixeta",
+      "email": "daniel@iftm.com"
+    },
+    "subject": { "id": 23, "name": "Circuitos II", "period": 3 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 1
+  },
+  {
+    "id": 24,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": {
+      "id": 16,
+      "name": "Daniela Orbolato",
+      "email": "daniela@iftm.com"
+    },
+    "subject": { "id": 24, "name": "Pesquisa e Ordenação", "period": 3 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 4
+  },
+  {
+    "id": 24,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": {
+      "id": 16,
+      "name": "Daniela Orbolato",
+      "email": "daniela@iftm.com"
+    },
+    "subject": { "id": 24, "name": "Pesquisa e Ordenação", "period": 3 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 3
+  },
+  {
+    "id": 24,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": {
+      "id": 16,
+      "name": "Daniela Orbolato",
+      "email": "daniela@iftm.com"
+    },
+    "subject": { "id": 24, "name": "Pesquisa e Ordenação", "period": 3 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 0
+  },
+  {
+    "id": 24,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": {
+      "id": 16,
+      "name": "Daniela Orbolato",
+      "email": "daniela@iftm.com"
+    },
+    "subject": { "id": 24, "name": "Pesquisa e Ordenação", "period": 3 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 2,
+    "day": 4
+  },
+  {
+    "id": 24,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": {
+      "id": 16,
+      "name": "Daniela Orbolato",
+      "email": "daniela@iftm.com"
+    },
+    "subject": { "id": 24, "name": "Pesquisa e Ordenação", "period": 3 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 3
+  },
+  {
+    "id": 25,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 11,
+      "name": "substituto",
+      "email": "substituto@iftm.com"
+    },
+    "subject": { "id": 25, "name": "Fisica II", "period": 3 },
+    "classroom": {
+      "id": 9,
+      "name": "403",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 2
+  },
+  {
+    "id": 25,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 11,
+      "name": "substituto",
+      "email": "substituto@iftm.com"
+    },
+    "subject": { "id": 25, "name": "Fisica II", "period": 3 },
+    "classroom": {
+      "id": 9,
+      "name": "403",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 5,
+    "day": 1
+  },
+  {
+    "id": 25,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 11,
+      "name": "substituto",
+      "email": "substituto@iftm.com"
+    },
+    "subject": { "id": 25, "name": "Fisica II", "period": 3 },
+    "classroom": {
+      "id": 9,
+      "name": "403",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 2
+  },
+  {
+    "id": 25,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 11,
+      "name": "substituto",
+      "email": "substituto@iftm.com"
+    },
+    "subject": { "id": 25, "name": "Fisica II", "period": 3 },
+    "classroom": {
+      "id": 9,
+      "name": "403",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 1
+  },
+  {
+    "id": 26,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": {
+      "id": 14,
+      "name": "Andreia Crico",
+      "email": "andreia@iftm.com"
+    },
+    "subject": { "id": 26, "name": "Materiais", "period": 3 },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 1
+  },
+  {
+    "id": 26,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": {
+      "id": 14,
+      "name": "Andreia Crico",
+      "email": "andreia@iftm.com"
+    },
+    "subject": { "id": 26, "name": "Materiais", "period": 3 },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 9,
+    "day": 2
+  },
+  {
+    "id": 27,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 27, "name": "Calculo III", "period": 3 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 3
+  },
+  {
+    "id": 27,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 27, "name": "Calculo III", "period": 3 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 4
+  },
+  {
+    "id": 27,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 27, "name": "Calculo III", "period": 3 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 2
+  },
+  {
+    "id": 27,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 27, "name": "Calculo III", "period": 3 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 2
+  },
+  {
+    "id": 28,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 18, "name": "Fred", "email": "fred@iftm.com" },
+    "subject": {
+      "id": 28,
+      "name": "Arquitetura e Organização de Computadores",
+      "period": 3
+    },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 4
+  },
+  {
+    "id": 28,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 18, "name": "Fred", "email": "fred@iftm.com" },
+    "subject": {
+      "id": 28,
+      "name": "Arquitetura e Organização de Computadores",
+      "period": 3
+    },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 4
+  },
+  {
+    "id": 28,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 18, "name": "Fred", "email": "fred@iftm.com" },
+    "subject": {
+      "id": 28,
+      "name": "Arquitetura e Organização de Computadores",
+      "period": 3
+    },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 1
+  },
+  {
+    "id": 28,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 18, "name": "Fred", "email": "fred@iftm.com" },
+    "subject": {
+      "id": 28,
+      "name": "Arquitetura e Organização de Computadores",
+      "period": 3
+    },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 5,
+    "day": 2
+  },
+  {
+    "id": 29,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": {
+      "id": 19,
+      "name": "Marcelo Barreiro",
+      "email": "marcelo@iftm.com"
+    },
+    "subject": { "id": 29, "name": "Desenho tecnico", "period": 3 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 1
+  },
+  {
+    "id": 29,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": {
+      "id": 19,
+      "name": "Marcelo Barreiro",
+      "email": "marcelo@iftm.com"
+    },
+    "subject": { "id": 29, "name": "Desenho tecnico", "period": 3 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 3,
+    "day": 4
+  },
+  {
+    "id": 29,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": {
+      "id": 19,
+      "name": "Marcelo Barreiro",
+      "email": "marcelo@iftm.com"
+    },
+    "subject": { "id": 29, "name": "Desenho tecnico", "period": 3 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 1
+  },
+  {
+    "id": 30,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": {
+      "id": 19,
+      "name": "Marcelo Barreiro",
+      "email": "marcelo@iftm.com"
+    },
+    "subject": {
+      "id": 30,
+      "name": "projetos interdisciplinares III",
+      "period": 3
+    },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 5,
+    "day": 0
+  },
+  {
+    "id": 30,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": {
+      "id": 19,
+      "name": "Marcelo Barreiro",
+      "email": "marcelo@iftm.com"
+    },
+    "subject": {
+      "id": 30,
+      "name": "projetos interdisciplinares III",
+      "period": 3
+    },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 2
+  },
+  {
+    "id": 30,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": {
+      "id": 19,
+      "name": "Marcelo Barreiro",
+      "email": "marcelo@iftm.com"
+    },
+    "subject": {
+      "id": 30,
+      "name": "projetos interdisciplinares III",
+      "period": 3
+    },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 4,
+      "name": "Engenharia de computação",
+      "period": "3",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 2
+  },
+  {
+    "id": 31,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": {
+      "id": 19,
+      "name": "Marcelo Barreiro",
+      "email": "marcelo@iftm.com"
+    },
+    "subject": { "id": 31, "name": "Eletromagnetismo", "period": 4 },
+    "classroom": {
+      "id": 9,
+      "name": "403",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 3
+  },
+  {
+    "id": 31,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": {
+      "id": 19,
+      "name": "Marcelo Barreiro",
+      "email": "marcelo@iftm.com"
+    },
+    "subject": { "id": 31, "name": "Eletromagnetismo", "period": 4 },
+    "classroom": {
+      "id": 9,
+      "name": "403",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 3
+  },
+  {
+    "id": 32,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 7, "name": "Anderson", "email": "anderson@iftm.com" },
+    "subject": { "id": 32, "name": "Fisica III", "period": 4 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 3
+  },
+  {
+    "id": 32,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 7, "name": "Anderson", "email": "anderson@iftm.com" },
+    "subject": { "id": 32, "name": "Fisica III", "period": 4 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 2
+  },
+  {
+    "id": 32,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 7, "name": "Anderson", "email": "anderson@iftm.com" },
+    "subject": { "id": 32, "name": "Fisica III", "period": 4 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 2,
+    "day": 4
+  },
+  {
+    "id": 32,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 7, "name": "Anderson", "email": "anderson@iftm.com" },
+    "subject": { "id": 32, "name": "Fisica III", "period": 4 },
+    "classroom": {
+      "id": 5,
+      "name": "402",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 3
+  },
+  {
+    "id": 33,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 20, "name": "Kety", "email": "kety@iftm.com" },
+    "subject": { "id": 33, "name": "Eletronica I", "period": 4 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 2
+  },
+  {
+    "id": 33,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 20, "name": "Kety", "email": "kety@iftm.com" },
+    "subject": { "id": 33, "name": "Eletronica I", "period": 4 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 3,
+    "day": 2
+  },
+  {
+    "id": 33,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 20, "name": "Kety", "email": "kety@iftm.com" },
+    "subject": { "id": 33, "name": "Eletronica I", "period": 4 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 1
+  },
+  {
+    "id": 33,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 20, "name": "Kety", "email": "kety@iftm.com" },
+    "subject": { "id": 33, "name": "Eletronica I", "period": 4 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 3,
+    "day": 2
+  },
+  {
+    "id": 34,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 34, "name": "Calculo IV", "period": 4 },
+    "classroom": {
+      "id": 7,
+      "name": "404",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 0
+  },
+  {
+    "id": 34,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 34, "name": "Calculo IV", "period": 4 },
+    "classroom": {
+      "id": 7,
+      "name": "404",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 9,
+    "day": 4
+  },
+  {
+    "id": 34,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 34, "name": "Calculo IV", "period": 4 },
+    "classroom": {
+      "id": 7,
+      "name": "404",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 0
+  },
+  {
+    "id": 34,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 34, "name": "Calculo IV", "period": 4 },
+    "classroom": {
+      "id": 7,
+      "name": "404",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 0
+  },
+  {
+    "id": 34,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 34, "name": "Calculo IV", "period": 4 },
+    "classroom": {
+      "id": 7,
+      "name": "404",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 0
+  },
+  {
+    "id": 34,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 34, "name": "Calculo IV", "period": 4 },
+    "classroom": {
+      "id": 7,
+      "name": "404",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 9,
+    "day": 4
+  },
+  {
+    "id": 34,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 34, "name": "Calculo IV", "period": 4 },
+    "classroom": {
+      "id": 7,
+      "name": "404",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 1
+  },
+  {
+    "id": 34,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Leandro", "email": "leandro@iftm.com" },
+    "subject": { "id": 34, "name": "Calculo IV", "period": 4 },
+    "classroom": {
+      "id": 7,
+      "name": "404",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 1
+  },
+  {
+    "id": 35,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 3, "name": "Orbolato", "email": "orbolato@iftm.com" },
+    "subject": {
+      "id": 35,
+      "name": "Programação Orientada a Objetos e Visuais",
+      "period": 4
+    },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 2
+  },
+  {
+    "id": 35,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 3, "name": "Orbolato", "email": "orbolato@iftm.com" },
+    "subject": {
+      "id": 35,
+      "name": "Programação Orientada a Objetos e Visuais",
+      "period": 4
+    },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 2
+  },
+  {
+    "id": 35,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 3, "name": "Orbolato", "email": "orbolato@iftm.com" },
+    "subject": {
+      "id": 35,
+      "name": "Programação Orientada a Objetos e Visuais",
+      "period": 4
+    },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 5,
+    "day": 0
+  },
+  {
+    "id": 35,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 3, "name": "Orbolato", "email": "orbolato@iftm.com" },
+    "subject": {
+      "id": 35,
+      "name": "Programação Orientada a Objetos e Visuais",
+      "period": 4
+    },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 9,
+    "day": 2
+  },
+  {
+    "id": 35,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 3, "name": "Orbolato", "email": "orbolato@iftm.com" },
+    "subject": {
+      "id": 35,
+      "name": "Programação Orientada a Objetos e Visuais",
+      "period": 4
+    },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 9,
+    "day": 2
+  },
+  {
+    "id": 35,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 3, "name": "Orbolato", "email": "orbolato@iftm.com" },
+    "subject": {
+      "id": 35,
+      "name": "Programação Orientada a Objetos e Visuais",
+      "period": 4
+    },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 2
+  },
+  {
+    "id": 36,
+    "quantity": 7,
+    "duration": 50,
+    "teacher": { "id": 21, "name": "Camilo", "email": "camilo@iftm.com" },
+    "subject": { "id": 36, "name": "Banco de Dados", "period": 4 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 4
+  },
+  {
+    "id": 36,
+    "quantity": 7,
+    "duration": 50,
+    "teacher": { "id": 21, "name": "Camilo", "email": "camilo@iftm.com" },
+    "subject": { "id": 36, "name": "Banco de Dados", "period": 4 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 2
+  },
+  {
+    "id": 36,
+    "quantity": 7,
+    "duration": 50,
+    "teacher": { "id": 21, "name": "Camilo", "email": "camilo@iftm.com" },
+    "subject": { "id": 36, "name": "Banco de Dados", "period": 4 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 4
+  },
+  {
+    "id": 36,
+    "quantity": 7,
+    "duration": 50,
+    "teacher": { "id": 21, "name": "Camilo", "email": "camilo@iftm.com" },
+    "subject": { "id": 36, "name": "Banco de Dados", "period": 4 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 2
+  },
+  {
+    "id": 36,
+    "quantity": 7,
+    "duration": 50,
+    "teacher": { "id": 21, "name": "Camilo", "email": "camilo@iftm.com" },
+    "subject": { "id": 36, "name": "Banco de Dados", "period": 4 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 2
+  },
+  {
+    "id": 36,
+    "quantity": 7,
+    "duration": 50,
+    "teacher": { "id": 21, "name": "Camilo", "email": "camilo@iftm.com" },
+    "subject": { "id": 36, "name": "Banco de Dados", "period": 4 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 2
+  },
+  {
+    "id": 36,
+    "quantity": 7,
+    "duration": 50,
+    "teacher": { "id": 21, "name": "Camilo", "email": "camilo@iftm.com" },
+    "subject": { "id": 36, "name": "Banco de Dados", "period": 4 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 4
+  },
+  {
+    "id": 37,
+    "quantity": 1,
+    "duration": 50,
+    "teacher": { "id": 22, "name": "Gustavo", "email": "gustavo@iftm.com" },
+    "subject": {
+      "id": 37,
+      "name": "Projetos Interdisciplinares IV",
+      "period": 4
+    },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 5,
+      "name": "Engenharia de computação",
+      "period": "4",
+      "quantity_students": 10
+    },
+    "schedule": 3,
+    "day": 1
+  },
+  {
+    "id": 38,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 19,
+      "name": "Marcelo Barreiro",
+      "email": "marcelo@iftm.com"
+    },
+    "subject": { "id": 38, "name": "Sistemas Operacionais", "period": 5 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 9,
+    "day": 1
+  },
+  {
+    "id": 38,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 19,
+      "name": "Marcelo Barreiro",
+      "email": "marcelo@iftm.com"
+    },
+    "subject": { "id": 38, "name": "Sistemas Operacionais", "period": 5 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 2
+  },
+  {
+    "id": 38,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 19,
+      "name": "Marcelo Barreiro",
+      "email": "marcelo@iftm.com"
+    },
+    "subject": { "id": 38, "name": "Sistemas Operacionais", "period": 5 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 2
+  },
+  {
+    "id": 38,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 19,
+      "name": "Marcelo Barreiro",
+      "email": "marcelo@iftm.com"
+    },
+    "subject": { "id": 38, "name": "Sistemas Operacionais", "period": 5 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 4
+  },
+  {
+    "id": 39,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 13,
+      "name": "Daniel Caixeta",
+      "email": "daniel@iftm.com"
+    },
+    "subject": { "id": 39, "name": "Conversão de enrergia", "period": 5 },
+    "classroom": {
+      "id": 9,
+      "name": "403",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 4
+  },
+  {
+    "id": 39,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 13,
+      "name": "Daniel Caixeta",
+      "email": "daniel@iftm.com"
+    },
+    "subject": { "id": 39, "name": "Conversão de enrergia", "period": 5 },
+    "classroom": {
+      "id": 9,
+      "name": "403",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 1
+  },
+  {
+    "id": 39,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 13,
+      "name": "Daniel Caixeta",
+      "email": "daniel@iftm.com"
+    },
+    "subject": { "id": 39, "name": "Conversão de enrergia", "period": 5 },
+    "classroom": {
+      "id": 9,
+      "name": "403",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 4
+  },
+  {
+    "id": 39,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 13,
+      "name": "Daniel Caixeta",
+      "email": "daniel@iftm.com"
+    },
+    "subject": { "id": 39, "name": "Conversão de enrergia", "period": 5 },
+    "classroom": {
+      "id": 9,
+      "name": "403",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 2
+  },
+  {
+    "id": 40,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 20, "name": "Kety", "email": "kety@iftm.com" },
+    "subject": { "id": 40, "name": "Eletronica II", "period": 5 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 0
+  },
+  {
+    "id": 40,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 20, "name": "Kety", "email": "kety@iftm.com" },
+    "subject": { "id": 40, "name": "Eletronica II", "period": 5 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 0
+  },
+  {
+    "id": 40,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 20, "name": "Kety", "email": "kety@iftm.com" },
+    "subject": { "id": 40, "name": "Eletronica II", "period": 5 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 3
+  },
+  {
+    "id": 40,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 20, "name": "Kety", "email": "kety@iftm.com" },
+    "subject": { "id": 40, "name": "Eletronica II", "period": 5 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 5,
+    "day": 0
+  },
+  {
+    "id": 41,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 1, "name": "Clidenor", "email": "clidenor@iftm.com" },
+    "subject": { "id": 41, "name": "Sinais e Sistemas", "period": 5 },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 9,
+    "day": 4
+  },
+  {
+    "id": 41,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 1, "name": "Clidenor", "email": "clidenor@iftm.com" },
+    "subject": { "id": 41, "name": "Sinais e Sistemas", "period": 5 },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 2
+  },
+  {
+    "id": 41,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 1, "name": "Clidenor", "email": "clidenor@iftm.com" },
+    "subject": { "id": 41, "name": "Sinais e Sistemas", "period": 5 },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 2
+  },
+  {
+    "id": 41,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 1, "name": "Clidenor", "email": "clidenor@iftm.com" },
+    "subject": { "id": 41, "name": "Sinais e Sistemas", "period": 5 },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 9,
+    "day": 4
+  },
+  {
+    "id": 41,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 1, "name": "Clidenor", "email": "clidenor@iftm.com" },
+    "subject": { "id": 41, "name": "Sinais e Sistemas", "period": 5 },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 3
+  },
+  {
+    "id": 42,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Luiz Pessoa", "email": "luiz@iftm.com" },
+    "subject": { "id": 42, "name": "Sistemas Digitais", "period": 5 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 9,
+    "day": 1
+  },
+  {
+    "id": 42,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Luiz Pessoa", "email": "luiz@iftm.com" },
+    "subject": { "id": 42, "name": "Sistemas Digitais", "period": 5 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 2
+  },
+  {
+    "id": 42,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Luiz Pessoa", "email": "luiz@iftm.com" },
+    "subject": { "id": 42, "name": "Sistemas Digitais", "period": 5 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 2
+  },
+  {
+    "id": 42,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Luiz Pessoa", "email": "luiz@iftm.com" },
+    "subject": { "id": 42, "name": "Sistemas Digitais", "period": 5 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 2
+  },
+  {
+    "id": 43,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": { "id": 23, "name": "José Ricardo", "email": "josé@iftm.com" },
+    "subject": { "id": 43, "name": "Calculo Numerico", "period": 5 },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 4
+  },
+  {
+    "id": 43,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": { "id": 23, "name": "José Ricardo", "email": "josé@iftm.com" },
+    "subject": { "id": 43, "name": "Calculo Numerico", "period": 5 },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 4
+  },
+  {
+    "id": 43,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": { "id": 23, "name": "José Ricardo", "email": "josé@iftm.com" },
+    "subject": { "id": 43, "name": "Calculo Numerico", "period": 5 },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 3,
+    "day": 2
+  },
+  {
+    "id": 44,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": { "id": 24, "name": "Botta", "email": "botta@iftm.com" },
+    "subject": { "id": 44, "name": "WEB I", "period": 5 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 5,
+    "day": 1
+  },
+  {
+    "id": 44,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": { "id": 24, "name": "Botta", "email": "botta@iftm.com" },
+    "subject": { "id": 44, "name": "WEB I", "period": 5 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 9,
+    "day": 0
+  },
+  {
+    "id": 44,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": { "id": 24, "name": "Botta", "email": "botta@iftm.com" },
+    "subject": { "id": 44, "name": "WEB I", "period": 5 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 0
+  },
+  {
+    "id": 45,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": { "id": 6, "name": "Gustavo", "email": "gustavo@iftm.com" },
+    "subject": {
+      "id": 45,
+      "name": "Projetos Interdisciplinares V",
+      "period": 5
+    },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 2
+  },
+  {
+    "id": 45,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": { "id": 6, "name": "Gustavo", "email": "gustavo@iftm.com" },
+    "subject": {
+      "id": 45,
+      "name": "Projetos Interdisciplinares V",
+      "period": 5
+    },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 4
+  },
+  {
+    "id": 45,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": { "id": 6, "name": "Gustavo", "email": "gustavo@iftm.com" },
+    "subject": {
+      "id": 45,
+      "name": "Projetos Interdisciplinares V",
+      "period": 5
+    },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 6,
+      "name": "Engenharia de computação",
+      "period": "5",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 4
+  },
+  {
+    "id": 46,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 25, "name": "Jefferson", "email": "jefferson@iftm.com" },
+    "subject": { "id": 46, "name": "PDM", "period": 7 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 2,
+    "day": 0
+  },
+  {
+    "id": 46,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 25, "name": "Jefferson", "email": "jefferson@iftm.com" },
+    "subject": { "id": 46, "name": "PDM", "period": 7 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 2
+  },
+  {
+    "id": 46,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 25, "name": "Jefferson", "email": "jefferson@iftm.com" },
+    "subject": { "id": 46, "name": "PDM", "period": 7 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 2
+  },
+  {
+    "id": 46,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 25, "name": "Jefferson", "email": "jefferson@iftm.com" },
+    "subject": { "id": 46, "name": "PDM", "period": 7 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 3
+  },
+  {
+    "id": 46,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 25, "name": "Jefferson", "email": "jefferson@iftm.com" },
+    "subject": { "id": 46, "name": "PDM", "period": 7 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 2
+  },
+  {
+    "id": 46,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 25, "name": "Jefferson", "email": "jefferson@iftm.com" },
+    "subject": { "id": 46, "name": "PDM", "period": 7 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 2
+  },
+  {
+    "id": 47,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 13,
+      "name": "Daniel Caixeta",
+      "email": "daniel@iftm.com"
+    },
+    "subject": { "id": 47, "name": "Eletronica de Potencia", "period": 7 },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 1
+  },
+  {
+    "id": 47,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 13,
+      "name": "Daniel Caixeta",
+      "email": "daniel@iftm.com"
+    },
+    "subject": { "id": 47, "name": "Eletronica de Potencia", "period": 7 },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 0
+  },
+  {
+    "id": 47,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 13,
+      "name": "Daniel Caixeta",
+      "email": "daniel@iftm.com"
+    },
+    "subject": { "id": 47, "name": "Eletronica de Potencia", "period": 7 },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 5,
+    "day": 2
+  },
+  {
+    "id": 47,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 13,
+      "name": "Daniel Caixeta",
+      "email": "daniel@iftm.com"
+    },
+    "subject": { "id": 47, "name": "Eletronica de Potencia", "period": 7 },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 1
+  },
+  {
+    "id": 48,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": { "id": 48, "name": "Instrumentação", "period": 7 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 9,
+    "day": 2
+  },
+  {
+    "id": 48,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": { "id": 48, "name": "Instrumentação", "period": 7 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 3
+  },
+  {
+    "id": 48,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": { "id": 48, "name": "Instrumentação", "period": 7 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 9,
+    "day": 2
+  },
+  {
+    "id": 48,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": { "id": 48, "name": "Instrumentação", "period": 7 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 4
+  },
+  {
+    "id": 49,
+    "quantity": 1,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": {
+      "id": 49,
+      "name": "Projetos Interdisciplinares VII",
+      "period": 7
+    },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 4
+  },
+  {
+    "id": 50,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 18, "name": "Fred", "email": "fred@iftm.com" },
+    "subject": { "id": 50, "name": "Redes de Computadores", "period": 7 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 4
+  },
+  {
+    "id": 50,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 18, "name": "Fred", "email": "fred@iftm.com" },
+    "subject": { "id": 50, "name": "Redes de Computadores", "period": 7 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 2
+  },
+  {
+    "id": 50,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 18, "name": "Fred", "email": "fred@iftm.com" },
+    "subject": { "id": 50, "name": "Redes de Computadores", "period": 7 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 4
+  },
+  {
+    "id": 50,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 18, "name": "Fred", "email": "fred@iftm.com" },
+    "subject": { "id": 50, "name": "Redes de Computadores", "period": 7 },
+    "classroom": {
+      "id": 2,
+      "name": "405",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 2
+  },
+  {
+    "id": 51,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": {
+      "id": 14,
+      "name": "Andreia Crico",
+      "email": "andreia@iftm.com"
+    },
+    "subject": { "id": 51, "name": "Instalações Eletricas", "period": 7 },
+    "classroom": {
+      "id": 10,
+      "name": "109",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 3
+  },
+  {
+    "id": 51,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": {
+      "id": 14,
+      "name": "Andreia Crico",
+      "email": "andreia@iftm.com"
+    },
+    "subject": { "id": 51, "name": "Instalações Eletricas", "period": 7 },
+    "classroom": {
+      "id": 10,
+      "name": "109",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 9,
+    "day": 4
+  },
+  {
+    "id": 51,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": {
+      "id": 14,
+      "name": "Andreia Crico",
+      "email": "andreia@iftm.com"
+    },
+    "subject": { "id": 51, "name": "Instalações Eletricas", "period": 7 },
+    "classroom": {
+      "id": 10,
+      "name": "109",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 1
+  },
+  {
+    "id": 52,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": {
+      "id": 14,
+      "name": "Andreia Crico",
+      "email": "andreia@iftm.com"
+    },
+    "subject": { "id": 52, "name": "Instalações Eletricas", "period": 7 },
+    "classroom": {
+      "id": 10,
+      "name": "109",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 2
+  },
+  {
+    "id": 52,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": {
+      "id": 14,
+      "name": "Andreia Crico",
+      "email": "andreia@iftm.com"
+    },
+    "subject": { "id": 52, "name": "Instalações Eletricas", "period": 7 },
+    "classroom": {
+      "id": 10,
+      "name": "109",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 1
+  },
+  {
+    "id": 52,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": {
+      "id": 14,
+      "name": "Andreia Crico",
+      "email": "andreia@iftm.com"
+    },
+    "subject": { "id": 52, "name": "Instalações Eletricas", "period": 7 },
+    "classroom": {
+      "id": 10,
+      "name": "109",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 1
+  },
+  {
+    "id": 53,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Luiz Pessoa", "email": "luiz@iftm.com" },
+    "subject": { "id": 53, "name": "Fenomenos de transporte", "period": 7 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 2,
+    "day": 2
+  },
+  {
+    "id": 53,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": { "id": 11, "name": "Luiz Pessoa", "email": "luiz@iftm.com" },
+    "subject": { "id": 53, "name": "Fenomenos de transporte", "period": 7 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 9,
+    "day": 1
+  },
+  {
+    "id": 54,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": { "id": 26, "name": "Ana Lucia", "email": "ana@iftm.com" },
+    "subject": { "id": 54, "name": "MTC", "period": 7 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 0
+  },
+  {
+    "id": 54,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": { "id": 26, "name": "Ana Lucia", "email": "ana@iftm.com" },
+    "subject": { "id": 54, "name": "MTC", "period": 7 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 7,
+      "name": "Engenharia de computação",
+      "period": "7",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 0
+  },
+  {
+    "id": 55,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 16,
+      "name": "Daniela Orbolato",
+      "email": "daniela@iftm.com"
+    },
+    "subject": { "id": 55, "name": "LFA", "period": 8 },
+    "classroom": {
+      "id": 10,
+      "name": "109",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 8,
+      "name": "Engenharia de computação",
+      "period": "8",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 4
+  },
+  {
+    "id": 55,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 16,
+      "name": "Daniela Orbolato",
+      "email": "daniela@iftm.com"
+    },
+    "subject": { "id": 55, "name": "LFA", "period": 8 },
+    "classroom": {
+      "id": 10,
+      "name": "109",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 8,
+      "name": "Engenharia de computação",
+      "period": "8",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 4
+  },
+  {
+    "id": 55,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 16,
+      "name": "Daniela Orbolato",
+      "email": "daniela@iftm.com"
+    },
+    "subject": { "id": 55, "name": "LFA", "period": 8 },
+    "classroom": {
+      "id": 10,
+      "name": "109",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 8,
+      "name": "Engenharia de computação",
+      "period": "8",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 3
+  },
+  {
+    "id": 55,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": {
+      "id": 16,
+      "name": "Daniela Orbolato",
+      "email": "daniela@iftm.com"
+    },
+    "subject": { "id": 55, "name": "LFA", "period": 8 },
+    "classroom": {
+      "id": 10,
+      "name": "109",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 8,
+      "name": "Engenharia de computação",
+      "period": "8",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 3
+  },
+  {
+    "id": 56,
+    "quantity": 1,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": {
+      "id": 56,
+      "name": "Projetos Interdisciplinares VIII",
+      "period": 8
+    },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 8,
+      "name": "Engenharia de computação",
+      "period": "8",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 1
+  },
+  {
+    "id": 57,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": { "id": 57, "name": "CLP", "period": 8 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 8,
+      "name": "Engenharia de computação",
+      "period": "8",
+      "quantity_students": 10
+    },
+    "schedule": 2,
+    "day": 2
+  },
+  {
+    "id": 57,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": { "id": 57, "name": "CLP", "period": 8 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 8,
+      "name": "Engenharia de computação",
+      "period": "8",
+      "quantity_students": 10
+    },
+    "schedule": 3,
+    "day": 4
+  },
+  {
+    "id": 57,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": { "id": 57, "name": "CLP", "period": 8 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 8,
+      "name": "Engenharia de computação",
+      "period": "8",
+      "quantity_students": 10
+    },
+    "schedule": 3,
+    "day": 4
+  },
+  {
+    "id": 58,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": { "id": 58, "name": "Redes Industriais", "period": 8 },
+    "classroom": {
+      "id": 11,
+      "name": "110",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 8,
+      "name": "Engenharia de computação",
+      "period": "8",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 3
+  },
+  {
+    "id": 58,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": { "id": 58, "name": "Redes Industriais", "period": 8 },
+    "classroom": {
+      "id": 11,
+      "name": "110",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 8,
+      "name": "Engenharia de computação",
+      "period": "8",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 3
+  },
+  {
+    "id": 59,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": {
+      "id": 19,
+      "name": "Marcelo Barreiro",
+      "email": "marcelo@iftm.com"
+    },
+    "subject": { "id": 59, "name": "PDI", "period": 8 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 8,
+      "name": "Engenharia de computação",
+      "period": "8",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 3
+  },
+  {
+    "id": 59,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": {
+      "id": 19,
+      "name": "Marcelo Barreiro",
+      "email": "marcelo@iftm.com"
+    },
+    "subject": { "id": 59, "name": "PDI", "period": 8 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 8,
+      "name": "Engenharia de computação",
+      "period": "8",
+      "quantity_students": 10
+    },
+    "schedule": 3,
+    "day": 1
+  },
+  {
+    "id": 59,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": {
+      "id": 19,
+      "name": "Marcelo Barreiro",
+      "email": "marcelo@iftm.com"
+    },
+    "subject": { "id": 59, "name": "PDI", "period": 8 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 8,
+      "name": "Engenharia de computação",
+      "period": "8",
+      "quantity_students": 10
+    },
+    "schedule": 3,
+    "day": 1
+  },
+  {
+    "id": 60,
+    "quantity": 1,
+    "duration": 50,
+    "teacher": { "id": 26, "name": "Ana Lucia", "email": "ana@iftm.com" },
+    "subject": { "id": 60, "name": "Etica", "period": 8 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 8,
+      "name": "Engenharia de computação",
+      "period": "8",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 4
+  },
+  {
+    "id": 61,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 27, "name": "Rogerio C", "email": "rogerio@iftm.com" },
+    "subject": { "id": 61, "name": "SD", "period": 8 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 8,
+      "name": "Engenharia de computação",
+      "period": "8",
+      "quantity_students": 10
+    },
+    "schedule": 2,
+    "day": 2
+  },
+  {
+    "id": 61,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 27, "name": "Rogerio C", "email": "rogerio@iftm.com" },
+    "subject": { "id": 61, "name": "SD", "period": 8 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 8,
+      "name": "Engenharia de computação",
+      "period": "8",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 2
+  },
+  {
+    "id": 61,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 27, "name": "Rogerio C", "email": "rogerio@iftm.com" },
+    "subject": { "id": 61, "name": "SD", "period": 8 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 8,
+      "name": "Engenharia de computação",
+      "period": "8",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 2
+  },
+  {
+    "id": 61,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 27, "name": "Rogerio C", "email": "rogerio@iftm.com" },
+    "subject": { "id": 61, "name": "SD", "period": 8 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 8,
+      "name": "Engenharia de computação",
+      "period": "8",
+      "quantity_students": 10
+    },
+    "schedule": 2,
+    "day": 2
+  },
+  {
+    "id": 62,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": { "id": 62, "name": "PSC", "period": 9 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 1
+  },
+  {
+    "id": 62,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": { "id": 62, "name": "PSC", "period": 9 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 0
+  },
+  {
+    "id": 62,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": { "id": 62, "name": "PSC", "period": 9 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 0
+  },
+  {
+    "id": 62,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": { "id": 62, "name": "PSC", "period": 9 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 0,
+    "day": 0
+  },
+  {
+    "id": 62,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": { "id": 62, "name": "PSC", "period": 9 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 2
+  },
+  {
+    "id": 62,
+    "quantity": 6,
+    "duration": 50,
+    "teacher": { "id": 5, "name": "Robson", "email": "robson@iftm.com" },
+    "subject": { "id": 62, "name": "PSC", "period": 9 },
+    "classroom": {
+      "id": 4,
+      "name": "401",
+      "building": "BLOCO 4",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 1
+  },
+  {
+    "id": 63,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 25, "name": "Jefferson", "email": "jefferson@iftm.com" },
+    "subject": { "id": 63, "name": "IA", "period": 9 },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 2,
+    "day": 1
+  },
+  {
+    "id": 63,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 25, "name": "Jefferson", "email": "jefferson@iftm.com" },
+    "subject": { "id": 63, "name": "IA", "period": 9 },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 11,
+    "day": 0
+  },
+  {
+    "id": 63,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 25, "name": "Jefferson", "email": "jefferson@iftm.com" },
+    "subject": { "id": 63, "name": "IA", "period": 9 },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 3
+  },
+  {
+    "id": 63,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 25, "name": "Jefferson", "email": "jefferson@iftm.com" },
+    "subject": { "id": 63, "name": "IA", "period": 9 },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 3
+  },
+  {
+    "id": 63,
+    "quantity": 5,
+    "duration": 50,
+    "teacher": { "id": 25, "name": "Jefferson", "email": "jefferson@iftm.com" },
+    "subject": { "id": 63, "name": "IA", "period": 9 },
+    "classroom": {
+      "id": 6,
+      "name": "114",
+      "building": "BLOCO 1",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 2,
+    "day": 1
+  },
+  {
+    "id": 64,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 3, "name": "Orbolato", "email": "orbolato@iftm.com" },
+    "subject": { "id": 64, "name": "COMP", "period": 9 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 2
+  },
+  {
+    "id": 64,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 3, "name": "Orbolato", "email": "orbolato@iftm.com" },
+    "subject": { "id": 64, "name": "COMP", "period": 9 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 2
+  },
+  {
+    "id": 64,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 3, "name": "Orbolato", "email": "orbolato@iftm.com" },
+    "subject": { "id": 64, "name": "COMP", "period": 9 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 2
+  },
+  {
+    "id": 64,
+    "quantity": 4,
+    "duration": 50,
+    "teacher": { "id": 3, "name": "Orbolato", "email": "orbolato@iftm.com" },
+    "subject": { "id": 64, "name": "COMP", "period": 9 },
+    "classroom": {
+      "id": 3,
+      "name": "304",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 3,
+    "day": 4
+  },
+  {
+    "id": 65,
+    "quantity": 1,
+    "duration": 50,
+    "teacher": {
+      "id": 16,
+      "name": "Daniela Orbolato",
+      "email": "daniela@iftm.com"
+    },
+    "subject": { "id": 65, "name": "CA", "period": 9 },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 10,
+    "day": 4
+  },
+  {
+    "id": 66,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": { "id": 26, "name": "Ana Lucia", "email": "ana@iftm.com" },
+    "subject": { "id": 66, "name": "Gestão", "period": 9 },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 3
+  },
+  {
+    "id": 66,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": { "id": 26, "name": "Ana Lucia", "email": "ana@iftm.com" },
+    "subject": { "id": 66, "name": "Gestão", "period": 9 },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 1,
+    "day": 3
+  },
+  {
+    "id": 67,
+    "quantity": 1,
+    "duration": 50,
+    "teacher": {
+      "id": 11,
+      "name": "substituto",
+      "email": "substituto@iftm.com"
+    },
+    "subject": {
+      "id": 67,
+      "name": "Projetos Interdisciplinares IX",
+      "period": 9
+    },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 5,
+    "day": 4
+  },
+  {
+    "id": 68,
+    "quantity": 1,
+    "duration": 50,
+    "teacher": {
+      "id": 11,
+      "name": "substituto",
+      "email": "substituto@iftm.com"
+    },
+    "subject": { "id": 68, "name": "Pesquisa", "period": 9 },
+    "classroom": {
+      "id": 8,
+      "name": "301",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 2
+  },
+  {
+    "id": 69,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": { "id": 26, "name": "Ana Lucia", "email": "ana@iftm.com" },
+    "subject": { "id": 69, "name": "MTC", "period": 9 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 5,
+    "day": 2
+  },
+  {
+    "id": 69,
+    "quantity": 2,
+    "duration": 50,
+    "teacher": { "id": 26, "name": "Ana Lucia", "email": "ana@iftm.com" },
+    "subject": { "id": 69, "name": "MTC", "period": 9 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 9,
+      "name": "Engenharia de computação",
+      "period": "9",
+      "quantity_students": 10
+    },
+    "schedule": 8,
+    "day": 4
+  },
+  {
+    "id": 70,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": { "id": 4, "name": "Bruno", "email": "bruno@iftm.com" },
+    "subject": { "id": 70, "name": "TCC", "period": 10 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 10,
+      "name": "Engenharia de computação",
+      "period": "10",
+      "quantity_students": 10
+    },
+    "schedule": 4,
+    "day": 3
+  },
+  {
+    "id": 70,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": { "id": 4, "name": "Bruno", "email": "bruno@iftm.com" },
+    "subject": { "id": 70, "name": "TCC", "period": 10 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 10,
+      "name": "Engenharia de computação",
+      "period": "10",
+      "quantity_students": 10
+    },
+    "schedule": 6,
+    "day": 0
+  },
+  {
+    "id": 70,
+    "quantity": 3,
+    "duration": 50,
+    "teacher": { "id": 4, "name": "Bruno", "email": "bruno@iftm.com" },
+    "subject": { "id": 70, "name": "TCC", "period": 10 },
+    "classroom": {
+      "id": 1,
+      "name": "302",
+      "building": "BLOCO 3",
+      "capacity": 30
+    },
+    "course": {
+      "id": 1,
+      "name": "Engenharia de computação",
+      "shift": "Integral"
+    },
+    "class": {
+      "id": 10,
+      "name": "Engenharia de computação",
+      "period": "10",
+      "quantity_students": 10
+    },
+    "schedule": 7,
+    "day": 0
+  }
+]

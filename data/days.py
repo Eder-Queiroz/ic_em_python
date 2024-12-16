@@ -1,0 +1,1 @@
+DAYS = ["segunda", "terca", "quarta", "quinta", "sexta"]
