@@ -12,11 +12,13 @@ from pprint import pprint as p
 # Importa suas aulas de lesson.py
 from data.lessons import lessons
 
-POPULATION_SIZE = 500
+POPULATION_SIZE = 300
 P_CROSSOVER = 0.9
 P_MUTATION = 0.1
 
-MAX_GENERATIONS = 1000
+TOURNAMENT_SIZE = round(POPULATION_SIZE * 0.3)
+
+MAX_GENERATIONS = 600
 
 RANDOM_SEED = 42
 random.seed(RANDOM_SEED)
@@ -41,7 +43,7 @@ toolbox.register("populationCreator", tools.initRepeat, list, toolbox.individual
 
 toolbox.register("evaluate", combinedFitness)
 
-toolbox.register("select", tools.selTournament, tournsize=3)
+toolbox.register("select", tools.selTournament, tournsize=TOURNAMENT_SIZE)
 toolbox.register("mate", tools.cxTwoPoint)
 toolbox.register("mutate", customMutate, indpb=1.0 / POPULATION_SIZE)
 
@@ -109,13 +111,13 @@ while generationCounter < MAX_GENERATIONS:
     last_10_max_fitness.append(maxFitness)
     if len(last_10_max_fitness) > 10:
         last_10_max_fitness.pop(0)
-
+    '''
     # Verificar se todos os valores na lista são iguais
     if len(last_10_max_fitness) == 10 and all(
         f == last_10_max_fitness[0] for f in last_10_max_fitness
     ):
-        print("Fitness não mudou por 10 gerações. Interrompendo o loop.")
-        break
+        print("Fitness não mudou por 10 gerações. Interrompendo o loop.") 
+        break  '''
 
 best_index = fitnessValues.index(max(fitnessValues))
 print("Best Individual = ", population[best_index])
