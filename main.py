@@ -11,16 +11,8 @@ from pprint import pprint as p
 
 # Importa suas aulas de lesson.py
 from data.lessons import lessons
+from data.config import POPULATION_SIZE, MAX_GENERATIONS, P_CROSSOVER, P_MUTATION, TOURNAMENT_SIZE, RANDOM_SEED
 
-POPULATION_SIZE = 300
-P_CROSSOVER = 0.9
-P_MUTATION = 0.1
-
-TOURNAMENT_SIZE = round(POPULATION_SIZE * 0.3)
-
-MAX_GENERATIONS = 600
-
-RANDOM_SEED = 42
 random.seed(RANDOM_SEED)
 
 toolbox = base.Toolbox()

@@ -14,7 +14,7 @@ def calculateDoubleLessons(individual):
             and (
                 sorted_individual[i]["schedule"] + 1
                 == sorted_individual[i + 1]["schedule"]
-                or sorted_individual[i]["schedule"] != 5
+
             )
         ):
             double_lessons_count += 1
