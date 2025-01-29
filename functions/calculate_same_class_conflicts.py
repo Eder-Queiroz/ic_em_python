@@ -1,4 +1,4 @@
-def calculateScheduleConflicts(individual):
+def calculateSameClassConflicts(individual):
     sorted_individual = sorted(individual, key=lambda x: (x["day"], x["schedule"]))
 
     schedule_conflicts = 0
@@ -6,7 +6,7 @@ def calculateScheduleConflicts(individual):
 
     while i < len(sorted_individual) - 1:
         if (
-            sorted_individual[i]["teacher"]["id"] == sorted_individual[i + 1]["teacher"]["id"]
+            sorted_individual[i]["class"]["id"] == sorted_individual[i + 1]["class"]["id"]
             and sorted_individual[i]["day"] == sorted_individual[i + 1]["day"]
             and sorted_individual[i]["schedule"] == sorted_individual[i + 1]["schedule"]
         ):
